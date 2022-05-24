@@ -1,1 +1,1 @@
-# JAI BALAYYA
+# sample repository
